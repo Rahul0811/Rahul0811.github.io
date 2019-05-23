@@ -42,3 +42,27 @@ li
 	font-family: Comic Sans MS;
 	text-align: center;
 }
+}
+#navbar ul 
+{
+    padding: 5px;
+    list-style-type: none;
+    text-align: center;
+    background-color: #000;
+    margin: 10px;
+    border-radius: 5px;
+}
+#navbar ul li
+{
+    display: inline;
+    font-family: Comic Sans MS;
+}
+#navbar ul li a
+{
+    display: inline;
+    text-decoration: none;
+    padding:0.2em 1em;
+    color:#fff;
+    background-color: #000 ;
+    font-family: Comic Sans MS;
+}
