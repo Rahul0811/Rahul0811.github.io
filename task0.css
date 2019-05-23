@@ -59,15 +59,9 @@ li
 {
     display: inline;
     text-decoration: none;
-    font-family: arial;
+   font-family: Comic Sans MS;
     padding:0.2em 1em;
     color:#fff;
     background-color: #000 
 }
-#navbar ul li a:hover
-{
-    background-color: #fff;
-    color: #000;
-    cursor: wait;
-    border-radius: 5px;
-}
+
