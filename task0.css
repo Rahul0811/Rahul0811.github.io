@@ -42,7 +42,6 @@ li
 	font-family: Comic Sans MS;
 	text-align: center;
 }
-}
 #navbar ul 
 {
     padding: 5px;
@@ -55,14 +54,20 @@ li
 #navbar ul li
 {
     display: inline;
-    font-family: Comic Sans MS;
 }
 #navbar ul li a
 {
     display: inline;
     text-decoration: none;
+    font-family: arial;
     padding:0.2em 1em;
     color:#fff;
-    background-color: #000 ;
-    font-family: Comic Sans MS;
+    background-color: #000 
+}
+#navbar ul li a:hover
+{
+    background-color: #fff;
+    color: #000;
+    cursor: wait;
+    border-radius: 5px;
 }
